@@ -1,0 +1,624 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{638195A4-AA32-46A4-8E8D-48474E98B14A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>HRProject</RootNamespace>
+    <AssemblyName>HRProject</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp, Version=5.0.5.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdjustmentRep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdjustmentRep.designer.cs">
+      <DependentUpon>FormAdjustmentRep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBasicInformationRep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBasicInformationRep.designer.cs">
+      <DependentUpon>FormBasicInformationRep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDeductionReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDeductionReport.designer.cs">
+      <DependentUpon>FormDeductionReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEPFRep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEPFRep.designer.cs">
+      <DependentUpon>FormEPFRep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLoanRep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLoanRep.designer.cs">
+      <DependentUpon>FormLoanRep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMedicalInformationRep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMedicalInformationRep.designer.cs">
+      <DependentUpon>FormMedicalInformationRep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPaymentCreationRep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPaymentCreationRep.designer.cs">
+      <DependentUpon>FormPaymentCreationRep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPaymentRep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPaymentRep.designer.cs">
+      <DependentUpon>FormPaymentRep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPhysicalInformationRep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPhysicalInformationRep.designer.cs">
+      <DependentUpon>FormPhysicalInformationRep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormShiftRep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormShiftRep.designer.cs">
+      <DependentUpon>FormShiftRep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSportsRep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSportsRep.Designer.cs">
+      <DependentUpon>FormSportsRep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormWorkExpRep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormWorkExpRep.designer.cs">
+      <DependentUpon>FormWorkExpRep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAdjustment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAdjustment.Designer.cs">
+      <DependentUpon>FrmAdjustment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAttendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAttendance.Designer.cs">
+      <DependentUpon>FrmAttendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAttendanceRep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAttendanceRep.Designer.cs">
+      <DependentUpon>FrmAttendanceRep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBank.Designer.cs">
+      <DependentUpon>FrmBank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBankRep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBankRep.Designer.cs">
+      <DependentUpon>FrmBankRep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBasicSal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBasicSal.Designer.cs">
+      <DependentUpon>FrmBasicSal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBasicSalRep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBasicSalRep.Designer.cs">
+      <DependentUpon>FrmBasicSalRep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDailyPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDailyPlan.Designer.cs">
+      <DependentUpon>FrmDailyPlan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDailyPlanRep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDailyPlanRep.Designer.cs">
+      <DependentUpon>FrmDailyPlanRep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDeducionCreationRepcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDeducionCreationRepcs.Designer.cs">
+      <DependentUpon>FrmDeducionCreationRepcs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDeduction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDeduction.Designer.cs">
+      <DependentUpon>FrmDeduction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDeductionCreation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDeductionCreation.Designer.cs">
+      <DependentUpon>FrmDeductionCreation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDept.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDept.Designer.cs">
+      <DependentUpon>FrmDept.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDeptRep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDeptRep.Designer.cs">
+      <DependentUpon>FrmDeptRep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEmpBasicInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEmpBasicInfo.Designer.cs">
+      <DependentUpon>FrmEmpBasicInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEPF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEPF.Designer.cs">
+      <DependentUpon>FrmEPF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLeave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLeave.Designer.cs">
+      <DependentUpon>FrmLeave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLeaveRep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLeaveRep.Designer.cs">
+      <DependentUpon>FrmLeaveRep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLoan.Designer.cs">
+      <DependentUpon>FrmLoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMedicalInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMedicalInfo.Designer.cs">
+      <DependentUpon>FrmMedicalInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMyTask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMyTask.Designer.cs">
+      <DependentUpon>FrmMyTask.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMyTaskRep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMyTaskRep.Designer.cs">
+      <DependentUpon>FrmMyTaskRep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNonRelRef.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNonRelRef.Designer.cs">
+      <DependentUpon>FrmNonRelRef.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNonRelRefRep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNonRelRefRep.Designer.cs">
+      <DependentUpon>FrmNonRelRefRep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmoffice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmoffice.Designer.cs">
+      <DependentUpon>Frmoffice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOffice1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOffice1.Designer.cs">
+      <DependentUpon>FrmOffice1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOfficeUseRep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOfficeUseRep.Designer.cs">
+      <DependentUpon>FrmOfficeUseRep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOT.Designer.cs">
+      <DependentUpon>FrmOT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOTRep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOTRep.Designer.cs">
+      <DependentUpon>FrmOTRep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPayment.Designer.cs">
+      <DependentUpon>FrmPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPaymentCreation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPaymentCreation.Designer.cs">
+      <DependentUpon>FrmPaymentCreation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPhysicalInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPhysicalInfo.Designer.cs">
+      <DependentUpon>FrmPhysicalInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmQualification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmQualification.Designer.cs">
+      <DependentUpon>FrmQualification.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmQualificationRep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmQualificationRep.Designer.cs">
+      <DependentUpon>FrmQualificationRep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmShift.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmShift.Designer.cs">
+      <DependentUpon>FrmShift.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmShortLeave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmShortLeave.Designer.cs">
+      <DependentUpon>FrmShortLeave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSLeaveRep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSLeaveRep.Designer.cs">
+      <DependentUpon>FrmSLeaveRep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSports.Designer.cs">
+      <DependentUpon>FrmSports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSupervisor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSupervisor.Designer.cs">
+      <DependentUpon>FrmSupervisor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSupervisorRep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSupervisorRep.Designer.cs">
+      <DependentUpon>FrmSupervisorRep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTask.designer.cs">
+      <DependentUpon>FrmTask.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTaskRep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTaskRep.Designer.cs">
+      <DependentUpon>FrmTaskRep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmWindows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmWindows.Designer.cs">
+      <DependentUpon>FrmWindows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmWorkExp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmWorkExp.Designer.cs">
+      <DependentUpon>FrmWorkExp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAdjustmentRep.resx">
+      <DependentUpon>FormAdjustmentRep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBasicInformationRep.resx">
+      <DependentUpon>FormBasicInformationRep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDeductionReport.resx">
+      <DependentUpon>FormDeductionReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEPFRep.resx">
+      <DependentUpon>FormEPFRep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLoanRep.resx">
+      <DependentUpon>FormLoanRep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMedicalInformationRep.resx">
+      <DependentUpon>FormMedicalInformationRep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPaymentCreationRep.resx">
+      <DependentUpon>FormPaymentCreationRep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPhysicalInformationRep.resx">
+      <DependentUpon>FormPhysicalInformationRep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormShiftRep.resx">
+      <DependentUpon>FormShiftRep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSportsRep.resx">
+      <DependentUpon>FormSportsRep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormWorkExpRep.resx">
+      <DependentUpon>FormWorkExpRep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAdjustment.resx">
+      <DependentUpon>FrmAdjustment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAttendance.resx">
+      <DependentUpon>FrmAttendance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAttendanceRep.resx">
+      <DependentUpon>FrmAttendanceRep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBank.resx">
+      <DependentUpon>FrmBank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBankRep.resx">
+      <DependentUpon>FrmBankRep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBasicSal.resx">
+      <DependentUpon>FrmBasicSal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBasicSalRep.resx">
+      <DependentUpon>FrmBasicSalRep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDailyPlan.resx">
+      <DependentUpon>FrmDailyPlan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDailyPlanRep.resx">
+      <DependentUpon>FrmDailyPlanRep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDeducionCreationRepcs.resx">
+      <DependentUpon>FrmDeducionCreationRepcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDeduction.resx">
+      <DependentUpon>FrmDeduction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDeductionCreation.resx">
+      <DependentUpon>FrmDeductionCreation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDept.resx">
+      <DependentUpon>FrmDept.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDeptRep.resx">
+      <DependentUpon>FrmDeptRep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEmpBasicInfo.resx">
+      <DependentUpon>FrmEmpBasicInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEPF.resx">
+      <DependentUpon>FrmEPF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLeave.resx">
+      <DependentUpon>FrmLeave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLeaveRep.resx">
+      <DependentUpon>FrmLeaveRep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLoan.resx">
+      <DependentUpon>FrmLoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMedicalInfo.resx">
+      <DependentUpon>FrmMedicalInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMyTask.resx">
+      <DependentUpon>FrmMyTask.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMyTaskRep.resx">
+      <DependentUpon>FrmMyTaskRep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNonRelRef.resx">
+      <DependentUpon>FrmNonRelRef.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNonRelRefRep.resx">
+      <DependentUpon>FrmNonRelRefRep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmoffice.resx">
+      <DependentUpon>Frmoffice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOffice1.resx">
+      <DependentUpon>FrmOffice1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOfficeUseRep.resx">
+      <DependentUpon>FrmOfficeUseRep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOT.resx">
+      <DependentUpon>FrmOT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOTRep.resx">
+      <DependentUpon>FrmOTRep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPayment.resx">
+      <DependentUpon>FrmPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPaymentCreation.resx">
+      <DependentUpon>FrmPaymentCreation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPhysicalInfo.resx">
+      <DependentUpon>FrmPhysicalInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmQualification.resx">
+      <DependentUpon>FrmQualification.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmQualificationRep.resx">
+      <DependentUpon>FrmQualificationRep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmShift.resx">
+      <DependentUpon>FrmShift.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmShortLeave.resx">
+      <DependentUpon>FrmShortLeave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSLeaveRep.resx">
+      <DependentUpon>FrmSLeaveRep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSports.resx">
+      <DependentUpon>FrmSports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSupervisor.resx">
+      <DependentUpon>FrmSupervisor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSupervisorRep.resx">
+      <DependentUpon>FrmSupervisorRep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTask.resx">
+      <DependentUpon>FrmTask.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTaskRep.resx">
+      <DependentUpon>FrmTaskRep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmWindows.resx">
+      <DependentUpon>FrmWindows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmWorkExp.resx">
+      <DependentUpon>FrmWorkExp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\116997991.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxAcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

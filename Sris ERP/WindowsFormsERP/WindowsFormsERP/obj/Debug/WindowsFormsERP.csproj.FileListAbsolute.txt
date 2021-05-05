@@ -1,0 +1,564 @@
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\bin\Debug\WindowsFormsERP.exe.config
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\bin\Debug\WindowsFormsERP.exe
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\bin\Debug\WindowsFormsERP.pdb
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmLogin.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.Properties.Resources.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.csproj.GenerateResource.Cache
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.exe
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.pdb
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmMain.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmItem.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmStkRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmSup.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\bin\Debug\Data.accdb
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmSupRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\bin\Debug\Interop.AcroPDFLib.dll
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\Interop.AcroPDFLib.dll
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.csproj.ResolveComReference.cache
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmStkImg.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmAccType.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBalSht.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBank.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBankDtl.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBankRecn.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBankRecnRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChaOAcc.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCheque.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCrncy.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCrncyExc.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCshBok.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCus.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCusRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmFxdAst.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmFxdAstRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmIncome.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmInvoice.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmIOU.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmJobORep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmMislns.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmProLos.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPtyCsh.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPurGRN.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPurOrder.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTaxReg.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTransport.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTriBal.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmUControl.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChqPay.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmGenLeg.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmMnuInv.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmSTaxInv.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmInvRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChqRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPtyCshRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPurRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTxtInv1.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmAPInv.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmARInv.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTxtInv2.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmAPCMemo.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmARCMemo.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmOgPay1.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmOgPay2.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTTPay.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBill.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmJOPay.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPayRec.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmSStaff.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmLocation.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmJobOdr.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmUReg.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPassword.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBMaster.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBankRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmAccountTypeRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBankDetailsRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCOAccountRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCurrencyExcRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCurrencyRegRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmIOURep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmLocationRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmSalesStaffRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTaxRegRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTTPaymentRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmUserLevelRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmUsersRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmMInvRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmSTaxInvRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTaxInvRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmUserLoginRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmLoad.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmUserLevel.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmGLAccount.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\bin\Debug\WindowsFormsERP.exe.config
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\Interop.AcroPDFLib.dll
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.csproj.ResolveComReference.cache
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.exe
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.pdb
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\bin\Debug\Data.accdb
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\bin\Debug\WindowsFormsERP.exe
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\bin\Debug\WindowsFormsERP.pdb
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\bin\Debug\Interop.AcroPDFLib.dll
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmLogin.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmAccountTypeRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmAPInv.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmARInv.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmAccType.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmAPCMemo.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmARCMemo.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBalSht.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBank.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBankDetailsRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBankDtl.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBankRecn.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBankRecnRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBankRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBill.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBMaster.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChaOAcc.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCheque.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChqPay.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChqRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCOAccountRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCrncy.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCrncyExc.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCshBok.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCurrencyExcRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCurrencyRegRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCus.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCusRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmFxdAst.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmFxdAstRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmGenLeg.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmGLAccount.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmIncome.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmInvoice.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmInvRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmIOU.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmIOURep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmItem.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmJobOdr.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmJobORep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmJOPay.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmLoad.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmLocation.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmLocationRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmMain.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmMInvRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmMislns.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmMnuInv.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmOgPay1.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmOgPay2.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPassword.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPayRec.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmProLos.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPtyCsh.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPtyCshRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPurGRN.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPurOrder.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPurRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmSalesStaffRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmSStaff.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmSTaxInv.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmSTaxInvRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmStkImg.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmStkRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmSup.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmSupRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTaxInvRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTaxReg.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTaxRegRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTransport.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTriBal.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTTPay.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTTPaymentRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTxtInv1.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTxtInv2.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmUControl.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmUReg.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmUserLevel.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmUserLevelRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmUserLoginRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmUsersRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.Properties.Resources.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris47\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.csproj.GenerateResource.Cache
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\bin\Debug\WindowsFormsERP.exe.config
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\Interop.AcroPDFLib.dll
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.csproj.ResolveComReference.cache
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.exe
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.pdb
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\bin\Debug\Data.accdb
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\bin\Debug\WindowsFormsERP.exe
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\bin\Debug\WindowsFormsERP.pdb
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\bin\Debug\Interop.AcroPDFLib.dll
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmLogin.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmAccountTypeRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmAPInv.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmARInv.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmAccType.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmAPCMemo.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmARCMemo.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBalSht.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBank.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBankDetailsRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBankDtl.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBankRecn.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBankRecnRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBankRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBill.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBMaster.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChaOAcc.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCheque.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChqPay.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChqRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCOAccountRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCrncy.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCrncyExc.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCshBok.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCurrencyExcRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCurrencyRegRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCus.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCusRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmFxdAst.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmFxdAstRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmGenLeg.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmGLAccount.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmIncome.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmInvoice.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmInvRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmIOU.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmIOURep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmItem.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmJobOdr.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmJobORep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmJOPay.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmLoad.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmLocation.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmLocationRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmMain.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmMInvRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmMislns.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmMnuInv.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmOgPay1.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmOgPay2.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPassword.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPayRec.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmProLos.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPtyCsh.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPtyCshRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPurGRN.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPurOrder.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPurRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmSalesStaffRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmSStaff.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmSTaxInv.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmSTaxInvRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmStkImg.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmStkRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmSup.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmSupRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTaxInvRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTaxReg.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTaxRegRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTransport.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTriBal.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTTPay.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTTPaymentRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTxtInv1.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTxtInv2.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmUControl.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmUReg.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmUserLevel.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmUserLevelRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmUserLoginRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmUsersRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.Properties.Resources.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.csproj.GenerateResource.Cache
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmJOPayment.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmJournal.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmJournalRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmJOPayment.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmJournal.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Backup\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmJournalRep.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTransection.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCashbook.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmLedgerList.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmLeadger.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTB.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCloseSt.resources
+D:\PROGRAMMING\Languages\Windows\C Sharp\Project\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmOpenSt.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\bin\Debug\WindowsFormsERP.exe.config
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\bin\Debug\WindowsFormsERP.exe
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\bin\Debug\WindowsFormsERP.pdb
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\bin\Debug\Interop.AcroPDFLib.dll
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.csprojAssemblyReference.cache
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\Interop.AcroPDFLib.dll
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.csproj.ResolveComReference.cache
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmLogin.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmAccountTypeRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmAPInv.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmARInv.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmAccType.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmAPCMemo.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmARCMemo.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBank.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBankDetailsRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBankDtl.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBankRecn.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBankRecnRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBankRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBMaster.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCashbook.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChaOAcc.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCloseSt.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCOAccountRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCrncy.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCrncyExc.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCurrencyExcRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCurrencyRegRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCus.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCusRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmGLAccount.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmInvoice.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmInvRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmIOU.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmIOURep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmItem.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmJobOdr.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmJobORep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmJOPayment.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmJournal.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmJournalRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmLeadger.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmLedgerList.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmLoad.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmLocation.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmLocationRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmMain.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmMInvRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmMnuInv.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmOgPay1.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmOgPay2.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmOpenSt.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPassword.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmProLos.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPtyCsh.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPtyCshRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPurGRN.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmSalesStaffRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmSStaff.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmSTaxInv.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmSTaxInvRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmStkImg.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmStkRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmSup.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmSupRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTaxInvRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTaxReg.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTaxRegRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTB.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTransection.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTTPay.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTTPaymentRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTxtInv1.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTxtInv2.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmUControl.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmUReg.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmUserLevel.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmUserLevelRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmUserLoginRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmUsersRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.Properties.Resources.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.csproj.GenerateResource.cache
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.csproj.CoreCompileInputs.cache
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.csproj.CopyComplete
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.exe
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.pdb
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBalanceSheet.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmIncomeStatement.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCashFlow.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmFAssets.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmFAssetsRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmMisl.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmMislRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPurchaseOrder.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPurOrderRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPurGRNRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmJOPayRecRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCusStatement.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCusSta.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmAccReceiveable.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmAccPayable.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPayVoucher.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmVoucherRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmOutstanding.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmSupStatement.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmSupSta.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChqReceived.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChqPayment.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChqPaymentPaid.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChqPaymentReceived.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmJOCusList.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChqPayBankList.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChqPayDateList.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChqPaySupList.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChqRecCusList.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChqRecDateList.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmGRNSupList.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmJOPayCusList.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPOSupList.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmVoucherSupList.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChkPayBankRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChkPayDateRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChkPaySupRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChqRecCusRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChqRecDateRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmGRNSupRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmJOPayCusRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPOSupRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmVoucherSupRep.resources
+E:\Sris\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmJOCusRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\bin\Debug\WindowsFormsERP.exe.config
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\bin\Debug\WindowsFormsERP.exe
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\bin\Debug\WindowsFormsERP.pdb
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\bin\Debug\Interop.AcroPDFLib.dll
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.csprojAssemblyReference.cache
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\Interop.AcroPDFLib.dll
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.csproj.ResolveComReference.cache
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmLogin.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmAccountTypeRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmAPInv.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmAccPayable.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmARInv.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmAccReceiveable.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmAccType.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmAPCMemo.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmARCMemo.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBalanceSheet.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBank.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBankDetailsRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBankDtl.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBankRecn.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBankRecnRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBankRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmBMaster.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCashbook.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCashFlow.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChaOAcc.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChkPayBankRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChkPayDateRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChkPaySupRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChqPayBankList.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChqPayDateList.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChqPayment.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChqPaymentPaid.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChqPaymentReceived.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChqPaySupList.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChqRecCusList.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChqRecCusRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChqRecDateList.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChqRecDateRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmChqReceived.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCloseSt.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCOAccountRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCrncy.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCrncyExc.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCurrencyExcRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCurrencyRegRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCus.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCusRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCusSta.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmCusStatement.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmFAssets.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmFAssetsRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmGLAccount.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmGRNSupList.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmGRNSupRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmIncomeStatement.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmInvoice.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmInvRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmIOU.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmIOURep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmItem.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmJobOdr.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmJobORep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmJOCusList.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmJOCusRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmJOPayCusList.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmJOPayCusRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmJOPayment.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmJOPayRecRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmJournal.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmJournalRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmLeadger.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmLedgerList.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmLoad.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmLocation.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmLocationRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmMain.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmMInvRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmMisl.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmMislRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmMnuInv.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmOgPay1.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmOgPay2.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmOpenSt.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmOutstanding.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPassword.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPayVoucher.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPOSupList.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPOSupRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmProLos.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPtyCsh.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPtyCshRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPurchaseOrder.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPurGRN.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPurGRNRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmPurOrderRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmSalesStaffRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmSStaff.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmSTaxInv.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmSTaxInvRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmStkImg.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmStkRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmSup.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmSupRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmSupSta.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmSupStatement.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTaxInvRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTaxReg.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTaxRegRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTB.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTransection.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTTPay.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTTPaymentRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTxtInv1.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmTxtInv2.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmUControl.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmUReg.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmUserLevel.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmUserLevelRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmUserLoginRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmUsersRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmVoucherRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmVoucherSupList.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.FrmVoucherSupRep.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.Properties.Resources.resources
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.csproj.GenerateResource.cache
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.csproj.CoreCompileInputs.cache
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.csproj.CopyComplete
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.exe
+E:\SRIS VB Projects\20.10.2020\Sris\Sris ERP\WindowsFormsERP\WindowsFormsERP\obj\Debug\WindowsFormsERP.pdb

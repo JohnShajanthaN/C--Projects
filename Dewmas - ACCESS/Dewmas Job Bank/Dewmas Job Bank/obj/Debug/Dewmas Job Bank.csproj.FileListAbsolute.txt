@@ -1,0 +1,70 @@
+E:\Dewmas\Dewmas Job Bank\Dewmas Job Bank\bin\Debug\Dewmas Job Bank.exe.config
+E:\Dewmas\Dewmas Job Bank\Dewmas Job Bank\bin\Debug\Dewmas Job Bank.exe
+E:\Dewmas\Dewmas Job Bank\Dewmas Job Bank\bin\Debug\Dewmas Job Bank.pdb
+E:\Dewmas\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas Job Bank.csprojAssemblyReference.cache
+E:\Dewmas\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.FrmMain.resources
+E:\Dewmas\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.Properties.Resources.resources
+E:\Dewmas\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas Job Bank.csproj.GenerateResource.cache
+E:\Dewmas\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas Job Bank.csproj.CoreCompileInputs.cache
+E:\Dewmas\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas Job Bank.exe
+E:\Dewmas\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas Job Bank.pdb
+E:\Dewmas\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.FrmPayment.resources
+E:\Dewmas\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.FrmJobDetails.resources
+E:\Dewmas\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.FrmBankInfo.resources
+E:\Dewmas\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.FrmJobSeekReg.resources
+E:\Dewmas\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.FrmStaffRegistration.resources
+E:\Dewmas\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.FrmStuReg.resources
+E:\Dewmas\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.FrmTaskCre.resources
+E:\Dewmas\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.RepDEWMAS.resources
+E:\Dewmas\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Interop.AcroPDFLib.dll
+E:\Dewmas\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas Job Bank.csproj.ResolveComReference.cache
+E:\Dewmas\Dewmas Job Bank\Dewmas Job Bank\bin\Debug\itextsharp.dll
+E:\Dewmas\Dewmas Job Bank\Dewmas Job Bank\bin\Debug\Interop.AcroPDFLib.dll
+E:\Dewmas\Dewmas Job Bank\Dewmas Job Bank\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\Dewmas\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\Dewmas\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas Job Bank.csproj.CopyComplete
+E:\Dewmas\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.StuPerInfoRep.resources
+E:\Dewmas\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.Form1.resources
+E:\Dewmas\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.FrmJobSekRep.resources
+E:\Dewmas\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.FrmStfPerInfoRep.resources
+E:\Dewmas\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.FrmStuPayRep.resources
+E:\Dewmas\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.FrmJobSekPay.resources
+E:\Dewmas\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.FrmJobSekPayRep.resources
+E:\Dewmas\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.FrmStfSal.resources
+E:\Dewmas\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.Sample.resources
+E:\Dewmas\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.FrmJobDetRep.resources
+E:\Dewmas - Access\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas Job Bank.csprojAssemblyReference.cache
+E:\Dewmas - Access\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Interop.AcroPDFLib.dll
+E:\Dewmas - Access\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\Dewmas - Access\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas Job Bank.csproj.ResolveComReference.cache
+E:\Dewmas - Access\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.Form1.resources
+E:\Dewmas - Access\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.FrmBankInfo.resources
+E:\Dewmas - Access\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.FrmJobDetails.resources
+E:\Dewmas - Access\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.FrmJobDetRep.resources
+E:\Dewmas - Access\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.FrmJobSeekReg.resources
+E:\Dewmas - Access\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.FrmJobSekPay.resources
+E:\Dewmas - Access\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.FrmJobSekPayRep.resources
+E:\Dewmas - Access\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.FrmJobSekRep.resources
+E:\Dewmas - Access\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.FrmPayment.resources
+E:\Dewmas - Access\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.FrmStaffRegistration.resources
+E:\Dewmas - Access\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.FrmMain.resources
+E:\Dewmas - Access\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.FrmStfSal.resources
+E:\Dewmas - Access\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.FrmStuReg.resources
+E:\Dewmas - Access\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.FrmTaskCre.resources
+E:\Dewmas - Access\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.Properties.Resources.resources
+E:\Dewmas - Access\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.RepDEWMAS.resources
+E:\Dewmas - Access\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.FrmStfPerInfoRep.resources
+E:\Dewmas - Access\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.FrmStuPayRep.resources
+E:\Dewmas - Access\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.StuPerInfoRep.resources
+E:\Dewmas - Access\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas_Job_Bank.Sample.resources
+E:\Dewmas - Access\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas Job Bank.csproj.GenerateResource.cache
+E:\Dewmas - Access\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas Job Bank.csproj.CoreCompileInputs.cache
+E:\Dewmas - Access\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas Job Bank.exe
+E:\Dewmas - Access\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas Job Bank.pdb
+E:\Dewmas - Access\Dewmas Job Bank\Dewmas Job Bank\bin\Debug\Dewmas Job Bank.exe.config
+E:\Dewmas - Access\Dewmas Job Bank\Dewmas Job Bank\bin\Debug\Dewmas Job Bank.exe
+E:\Dewmas - Access\Dewmas Job Bank\Dewmas Job Bank\bin\Debug\Dewmas Job Bank.pdb
+E:\Dewmas - Access\Dewmas Job Bank\Dewmas Job Bank\bin\Debug\itextsharp.dll
+E:\Dewmas - Access\Dewmas Job Bank\Dewmas Job Bank\bin\Debug\Interop.AcroPDFLib.dll
+E:\Dewmas - Access\Dewmas Job Bank\Dewmas Job Bank\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\Dewmas - Access\Dewmas Job Bank\Dewmas Job Bank\obj\Debug\Dewmas Job Bank.csproj.CopyComplete

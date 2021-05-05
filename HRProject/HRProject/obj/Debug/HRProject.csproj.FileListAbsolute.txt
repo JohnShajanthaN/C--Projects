@@ -1,0 +1,170 @@
+E:\HR\HRProject\HRProject\bin\Debug\HRProject.exe.config
+E:\HR\HRProject\HRProject\bin\Debug\HRProject.exe
+E:\HR\HRProject\HRProject\bin\Debug\HRProject.pdb
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.csprojAssemblyReference.cache
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.FrmLogin.resources
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.Properties.Resources.resources
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.csproj.GenerateResource.cache
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.csproj.CoreCompileInputs.cache
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.exe
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.pdb
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.FrmMain.resources
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.FrmAttendance.resources
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.FrmAttendanceRep.resources
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.FrmBank.resources
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.FrmBankRep.resources
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.FrmBasicSal.resources
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.FrmBasicSalRep.resources
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.FrmDeduction.resources
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.FrmDept.resources
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.FrmDeptRep.resources
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.FrmEmpBasicInfo.resources
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.FrmEPF.resources
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.FrmLeave.resources
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.FrmLeaveRep.resources
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.FrmLoan.resources
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.FrmMedicalInfo.resources
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.FrmMedicalRep.resources
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.FrmNonRelRef.resources
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.FrmOT.resources
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.FrmOTRep.resources
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.FrmPayment.resources
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.FrmPhysicalInfo.resources
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.FrmQualification.resources
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.FrmQualificationRep.resources
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.FrmShortLeave.resources
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.FrmSLeaveRep.resources
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.FrmSports.resources
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.FrmSupervisor.resources
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.FrmSupervisorRep.resources
+E:\HR\HRProject\HRProject\obj\Debug\HRProject.FrmWorkExp.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\bin\Debug\HRProject.exe.config
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\bin\Debug\HRProject.exe
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\bin\Debug\HRProject.pdb
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.csprojAssemblyReference.cache
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmLogin.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmAdjustment.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmAttendance.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmAttendanceRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmBank.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmBankRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmBasicSal.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmBasicSalRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmDeduction.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmDeductionCreation.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmDept.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmDeptRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmEmpBasicInfo.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmEPF.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmLeave.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmLeaveRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmLoan.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmMain.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmMedicalInfo.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmNonRelRef.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmOT.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmOTRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmPayment.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmPaymentCreation.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmPhysicalInfo.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmQualification.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmQualificationRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmShift.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmShortLeave.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmSLeaveRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmSports.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmSupervisor.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmSupervisorRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmWorkExp.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.Properties.Resources.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.csproj.GenerateResource.cache
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.csproj.CoreCompileInputs.cache
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.exe
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.pdb
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.csproj.CopyComplete
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\bin\Debug\Interop.AcroPDFLib.dll
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\Interop.AcroPDFLib.dll
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.csproj.ResolveComReference.cache
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmDeducionCreationRepcs.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.csprojAssemblyReference.cache
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\Interop.AcroPDFLib.dll
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.csproj.ResolveComReference.cache
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmLogin.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmAdjustment.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmAttendance.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmAttendanceRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmBank.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmBankRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmBasicSal.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmBasicSalRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmDeducionCreationRepcs.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmDeduction.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmDeductionCreation.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmDept.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmDeptRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmEmpBasicInfo.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmEPF.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmLeave.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmLeaveRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmLoan.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmMain.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmMedicalInfo.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmMedicalRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmNonRelRef.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmOT.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmOTRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmPayment.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmPaymentCreation.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmPhysicalInfo.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmQualification.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmQualificationRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmShift.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmShortLeave.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmSLeaveRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmSports.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmSupervisor.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmSupervisorRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmWorkExp.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.Properties.Resources.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.csproj.GenerateResource.cache
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.csproj.CoreCompileInputs.cache
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.exe
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.pdb
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\bin\Debug\HRProject.exe.config
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\bin\Debug\HRProject.exe
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\bin\Debug\HRProject.pdb
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\bin\Debug\Interop.AcroPDFLib.dll
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmSportsRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.csproj.CopyComplete
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmEPFRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmLoanRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmPaymentCreationRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmPhysicalInformationRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmShiftRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\Puratchi\Mix Original\HRProject\HRProject\obj\Debug\HRProject.FrmWorkExpRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmEPFRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmLoanRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmPaymentCreationRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmPhysicalInformationRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmShiftRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmSportsRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmWorkExpRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmBasicInformationRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmDailyPlan.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmDailyPlanRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmMyTask.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmMyTaskRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmNonRelRefRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmTaskRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmAdjustmentRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmDeductionRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmMedicalInformationRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmTask.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.Frmoffice.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmOffice1.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmOfficeUseRep.resources
+E:\SRIS VB Projects\20.10.2020\HR\HRProject\HRProject\obj\Debug\HRProject.FrmWindows.resources
